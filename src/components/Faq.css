@@ -1,0 +1,35 @@
+/* src/components/Faq.css */
+.faq-container {
+  padding: 20px;
+  margin-left: 9.06rem;
+  margin-right: 9.56rem
+}
+
+.faq-title {
+  color: #F47D4A;
+  font-family: 'Alata', sans-serif;
+  font-size: 3.375rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 6.25rem; /* 185.185% */
+}
+
+.faq-question {
+  color: #262626;
+  font-family: 'Alata', sans-serif;
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 2.4375rem; /* 130% */
+  letter-spacing: -0.01875rem; /* -0.3px */
+}
+
+.faq-answer {
+  color: rgba(0, 0, 0, 0.71);
+  font-family: 'Alata', sans-serif;
+  font-size: 1.5625rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 2.5625rem; /* 164% */
+  letter-spacing: -0.01563rem; /* -0.25px */
+}
